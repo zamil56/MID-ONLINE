@@ -1,0 +1,78 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+nav {
+  padding-bottom: 5%;
+  height: 22vh;
+}
+
+#navbarSupportedContent button {
+  border-radius: 50px;
+  padding: 10px 20px;
+}
+#navbarSupportedContent ul li {
+  padding: 0 20px;
+}
+
+.content {
+  height: 60vh;
+}
+
+.content h1 {
+  font-size: 50px;
+  margin-bottom: 15px;
+}
+
+.content h1 span {
+  color: #ff960b;
+}
+
+.content p {
+  width: 30%;
+  line-height: 26px;
+  font-size: 16px;
+}
+
+.content button {
+  border-radius: 50px;
+  padding: 10px 20px;
+}
+
+.content img {
+  margin-top: -240px;
+}
+
+.features {
+  height: -moz-max-content;
+  height: fit-content;
+}
+
+.features img{
+    width: 50px;
+    margin-top: 40px;
+}
+
+.features-body h5, .features-body p{
+    text-align: center;
+}
+
+.card-body button{
+    border-radius: 20px;
+    padding: 5px 20px;
+}
+
+.card-body img{
+    width: 25px;
+    margin-top: 20px;
+}
+
+.date span{
+    margin-top: 20px;
+}
+
+.seats span{
+    margin-top: 20px;
+}
